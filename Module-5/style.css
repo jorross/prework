@@ -1,0 +1,48 @@
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.big {
+    font-size: x-large;
+}
+
+.small {
+    font-size: x-small;
+}
+
+.centered {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mixed {
+    font-size: x-large;
+    font-weight: bold;
+    color: orange;
+}
+
+.styledFont {
+    color: green;
+    font-family: cursive;
+}
+
+#styledImage {
+    border-width: 1cm;
+    border-style: solid;
+    border-color: orange;
+}
